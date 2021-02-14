@@ -1,0 +1,8 @@
+baseURL = "https://shrimp.alerce.com/r_pen_swap/"
+languageCode = "en-us"
+title = "Pens"
+theme = "ananke" 
+sectionPagesMenu = "main" 
+
+[params]
+custom_css = ["css/_styles.css"]
